@@ -3,7 +3,7 @@ Repositorio de práctica con HTML y CSS base. Incluye estructura semántica y es
 
 
 
-## ✨ Características
+## Características
 - Barra de navegación con menú desplegable.
 - Logo centrado en la navbar.
 - Estilos iniciales con **CSS puro** (flexbox, sombras, hover).
@@ -13,7 +13,7 @@ Repositorio de práctica con HTML y CSS base. Incluye estructura semántica y es
 
 
 
-## 🚀 Uso
+## Uso
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/tuusuario/olimpycs-streetwear.git
